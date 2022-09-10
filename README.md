@@ -1,2 +1,1 @@
-# AirBnB_clone
-Web Development
+This directory implements webpage design.
